@@ -3,7 +3,7 @@
   "cli": {
     "analytics": "614156bc-d83f-4344-9f37-1a51cd64943b"
   },
-  "version": 1,
+  "version": 4,
   "newProjectRoot": "projects",
   "projects": {
     "oshop": {
